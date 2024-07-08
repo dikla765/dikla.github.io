@@ -1,14 +1,14 @@
 ## About Me
 
-I am Lucien Dikla Ngueleo, a software, network, and data science enthusiast. Currently, I am an intern at Inria, working on ML-based Cross-Layer Anomaly Detection in IoT Networks under the supervision of Prof. Valeria Loscri and Dr. Kevin Jiokeng.
+I am Lucien Dikla Ngueleo, a software, network, and data science enthusiast. 
 
 ### Contact Information
-- Email: [lucien.dikla-ngueleo@inria.fr](mailto:lucien.dikla-ngueleo@inria.fr)
+- Email: [lucien.dikla-ngueleo@inria.fr](mailto:lucien.dikla-ngueleo@inria.fr), [lucien.dikla@aims-cameroon.org](mailto:lucien.dikla@aims-cameroon.org)
 - Phone: +33745528036
 
 ## Current Position
 
-Since April 2, 2024, I have been working on the topic: “ML-based Cross-Layer Anomaly Detection in IoT Networks” at Inria.
+Since April 2, 2024, I have been working on the topic: “ML-based Cross-Layer Anomaly Detection in IoT Networks” at Inria, under the supervision of Prof. Valeria Loscri and Dr. Kevin Jiokeng.
 
 ## Education
 
