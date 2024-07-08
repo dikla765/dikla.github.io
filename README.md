@@ -57,8 +57,10 @@ Since April 2, 2024, I have been working on the topic: “ML-based Cross-Layer A
 - **Frontend**: HTML5, JS.
 - **Languages**: French, English.
 
-## Conferences
+## Conferences And Training School
 
+
+- **June 25-27, 2024**:Participated in the BEiNG-WISE (Behavioral Next Generation in Wireless Networks for Cyber Security) Training School organized as part of the COST Action: CA22104 in Skopje, Republic of North Macedonia.
 - **June 19-21, 2023**: Presented a poster at the IndabaX Cameroon 2023 conference at the University of Douala.
 - **October 25-27, 2023**: Participated in the EAI International Conference on Safe, Secure, Ethical, Responsible Technologies, and Emerging Applications in Yaounde, Cameroon.
 
