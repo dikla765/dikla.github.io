@@ -78,6 +78,5 @@ Since April 2, 2024, I have been working on the topic: “ML-based Cross-Layer A
 - **Authors**: Lucien Dikla Ngueleo (1) (4), Jules Pagna Disso (2) , Armel Ayimdji Tekemetieu (3) ,Justin Moskolaï Ngossaha (4), and Michael Nana Kameni (1)
 - **Affiliations**: (1) African Institute for Mathematical Sciences (AIMS) AIMS-Cameroon, (2) University of Warwick, (3) McGill University, (4) Department of Mathematics and Computer Science, Faculty of Science, University of Douala, Cameroon
 - **Abstract**: We conducted a study aimed at analyzing the sentiments expressed in Reddit comments about the COVID-19 vaccine and identifying the reasons for public mistrust. We used machine learning algorithms for this analysis. The results of this study could help decision-makers better understand public concerns and improve communication about the vaccine.
-- **Journal**: [Journal of Computer and Communications](https://www.scirp.org/journal/JCC/)
 - **Link**: [Journal of Computer and Communications](https://www.scirp.org/journal/paperinformation?paperid=131243)
 
