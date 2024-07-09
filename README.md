@@ -12,8 +12,9 @@ Since April 2, 2024, I have been working on the topic: “ML-based Cross-Layer A
 
 ## Education
 
-- **2023**: Structured Master’s degree in Data Science, AIMS-Cameroon.
+
 - **2021 - 2023**: Master’s degree in Computer Science, The University of Douala, Faculty of Sciences.
+- **2022 - 2023**: Structured Master’s degree in Data Science, AIMS-Cameroon.
 - **2020 - 2021**: Master 1 in Computer Science, The University of Douala, Faculty of Sciences.
 - **2018 - 2019**: Bachelor’s degree in Software Engineering, Institut Universitaire De Technologies of Douala.
 - **2015 - 2019**: Bachelor’s degree in Fundamental Computer Science, The University of Douala, Faculty of Sciences.
