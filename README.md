@@ -71,9 +71,6 @@ Since April 2, 2024, I have been working on the topic: “ML-based Cross-Layer A
 - **Authors**: Lucien Dikla Ngueleo (a), Justin Moskolaï Ngossaha (a), Raymond Houé Ngouna (b), Anna Förster (c) , and Samuel Bowong (a)
 - **Affiliations**: (a) Department of Mathematics and Computer Science, Faculty of Science, University of Douala, Cameroon; (b) Université Fédérale de Toulouse, ENIT-LGP, France; (c) University of Bremen, Faculty of Physics and Electrical Engineering, Germany
 - **Abstract**: We proposed an intelligent and cost-effective system that allows predicting water quality in outdoor aquaponic systems using machine learning algorithms. This enables farmers in developing countries to monitor water quality in real time for more sustainable agricultural practices. The system we designed achieved an average prediction accuracy of 98%.
-- **Journal**: Elsevier, Sustainable Computing: Informatics and Systems
-- **Status**: [Under Review](https://track.authorhub.elsevier.com/?uuid=7a9ae976-297c-4f1a-a4f3-c47691120ddf)
-- **Link**: [Sustainable Computing: Informatics and Systems](https://www.sciencedirect.com/journal/sustainable-computing-informatics-and-systems)
 
 ### Analysis of Public Sentiment Regarding COVID-19 Vaccines on the Social Media Reddit
 - **Authors**: Lucien Dikla Ngueleo (1) (4), Jules Pagna Disso (2) , Armel Ayimdji Tekemetieu (3) ,Justin Moskolaï Ngossaha (4), and Michael Nana Kameni (1)
