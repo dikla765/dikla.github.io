@@ -1,6 +1,6 @@
 ## About Me
 
-I am Lucien Dikla Ngueleo, a software, network, and data science enthusiast. 
+I am Lucien Dikla Ngueleo, a cybersecurity and data science enthusiast. 
 
 ### Contact Information
 - Email: [lucien.dikla-ngueleo@inria.fr](mailto:lucien.dikla-ngueleo@inria.fr), [lucien.dikla@aims-cameroon.org](mailto:lucien.dikla@aims-cameroon.org)
@@ -8,7 +8,7 @@ I am Lucien Dikla Ngueleo, a software, network, and data science enthusiast.
 
 ## Current Position
 
-Since April 2, 2024, I have been working on the topic: “ML-based Cross-Layer Anomaly Detection in IoT Networks” at Inria, under the supervision of Prof. Valeria Loscri and Dr. Kevin Jiokeng.
+Since April 2, 2024, I have been working on the topic: “ML-based Cross-Layer Anomaly Detection in IoT Networks” at Inria, under the supervision of Prof. [Valeria Loscri](https://chercheurs.lille.inria.fr/~loscri/home.html) and Dr. [Kevin Jiokeng](https://kjiokeng.github.io/).
 
 ## Education
 
@@ -58,12 +58,18 @@ Since April 2, 2024, I have been working on the topic: “ML-based Cross-Layer A
 - **Frontend**: HTML5, JS.
 - **Languages**: French, English.
 
-## Conferences And Training School
+## Conferences and Training Schools
 
+- **August 26–29, 2025**: Participated in the BEiNG-WISE (Behavioral Next Generation in Wireless Networks for Cyber Security) Training School, organized as part of the COST Action CA22104, held in Lithochoro, Greece. The focus was on *Cybersecurity and Human Factors from an Industrial and Ethical Perspective*.
 
-- **June 25-27, 2024**:Participated in the BEiNG-WISE (Behavioral Next Generation in Wireless Networks for Cyber Security) Training School organized as part of the COST Action: CA22104 in Skopje, Republic of North Macedonia.
-- **June 19-21, 2023**: Presented a poster at the IndabaX Cameroon 2023 conference at the University of Douala.
-- **October 25-27, 2023**: Participated in the EAI International Conference on Safe, Secure, Ethical, Responsible Technologies, and Emerging Applications in Yaounde, Cameroon.
+- **January 20–24, 2025**: Will attend the Winter School on Cybersecurity, co-organized by PEPR Cybersécurité and GDR Sécurité Informatique. The event will take place at L’Escandille (Autrans), in the Vercors mountain range, France.
+
+- **June 25–27, 2024**: Participated in the BEiNG-WISE Training School, organized as part of the COST Action CA22104, held in Skopje, Republic of North Macedonia.
+
+- **October 25–27, 2023**: Participated in the EAI International Conference on Safe, Secure, Ethical, Responsible Technologies, and Emerging Applications, held in Yaoundé, Cameroon.
+
+- **June 19–21, 2023**: Presented a poster at the IndabaX Cameroon 2023 Conference, hosted at the University of Douala.
+
 
 ## Publications
 
