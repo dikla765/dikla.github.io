@@ -8,7 +8,7 @@ I am Lucien Dikla Ngueleo, a cybersecurity and data science enthusiast.
 
 ## Current Position
 
-Since April 2, 2024, I have been working on the topic: “ML-based Cross-Layer Anomaly Detection in IoT Networks” at Inria, under the supervision of Prof. Valeria Loscri and Dr. Kevin Jiokeng.
+Since April 2, 2024, I have been working on the topic: “ML-based Cross-Layer Anomaly Detection in IoT Networks” at Inria, under the supervision of Prof. [Valeria Loscri](https://chercheurs.lille.inria.fr/~loscri/home.html) and Dr. [Kevin Jiokeng](https://kjiokeng.github.io/).
 
 ## Education
 
